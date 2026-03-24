@@ -1,0 +1,1 @@
+{\n  "name": "https-baffah-companion-ai.lovable.app-auth",\n  "version": "1.0.0",\n  "description": "A new project with Capacitor.",\n  "dependencies": {\n    "@capacitor/core": "latest",\n    "@capacitor/android": "latest"\n  }\n}
